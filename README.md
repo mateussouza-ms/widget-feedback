@@ -3,8 +3,8 @@
 Este é um projeto desenvolvido na oitava edição do Next Level Week, um evento de programação realizado pela Rocketseat do dia 02 a 08 de maio de 2022.
 <br/> <br/> 
 ## :computer: Aplicação desenvolvida
-Foi desenvolvida uma aplicação com três projetos, o Frontend Web com ReactJS, Frontend Mobile com React Native e Expo e o Backend com NodeJS. A aplicação foi desenvolvida utilizando as melhores práticas das tecnologias utilizadas em cada projeto. Como separação de responsabilidades em componentes nos projetos frontend, testes unitários no backend, etc.
-<br/> A aolicação trata-se de um botão e formulário para serem integrados em outras aplicações para envio de feedbaks pelos usuários. Através dela o usuário pode enviar comentários e prints da aplicação sobre problemas, dúvias, melhorias, etc. 
+Foi desenvolvida uma aplicação com três projetos, o Frontend Web com ReactJS, Frontend Mobile com React Native e Expo e o Backend com NodeJS. A aplicação foi desenvolvida utilizando as melhores práticas das tecnologias utilizadas em cada projeto, como separação de responsabilidades em componentes e acessibilidade nos projetos frontend, testes unitários no backend, etc.
+<br/> A aplicação trata-se de um botão e formulário para serem integrados em outras aplicações para envio de feedbaks pelos usuários. Através dela o usuário pode enviar comentários e prints da aplicação sobre problemas, dúvias, melhorias, etc. 
 <br/> <br/> 
 ## 🛠 Principais tecnologias utilizadas
 ### Backend
@@ -20,6 +20,7 @@ Foi desenvolvida uma aplicação com três projetos, o Frontend Web com ReactJS,
 ### Frontend Mobile
 ![ReactNative](https://img.shields.io/badge/React_Native-0.68.2-green)
 ![axios](https://img.shields.io/badge/axios-0.27.2-green)
+![expo](https://img.shields.io/badge/expo-45.0.0-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.3.5-green)
 
 <br/> <br/> 
