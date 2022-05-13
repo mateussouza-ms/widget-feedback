@@ -13,7 +13,7 @@ export const styles = StyleSheet.create({
     backgroundColor: theme.colors.surface_secondary,
   },
   image: {
-    width: 54,
+    width: 40,
     height: 40,
   },
   title: {
